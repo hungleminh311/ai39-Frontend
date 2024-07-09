@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Experience the freedom of choice with professional car rentals tailored to fit your journey. Reliable. Affordable. Convenient.",
+        "title": "Drive Your Dreams, On Demand"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the freedom of choice with professional car rentals tailored to fit your journey. Reliable. Affordable. Convenient.",
+        "title": "Drive Your Dreams, On Demand"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience the freedom of choice with professional car rentals tailored to fit your journey. Reliable. Affordable. Convenient.",
+        "title": "Drive Your Dreams, On Demand"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience the freedom of choice with professional car rentals tailored to fit your journey. Reliable. Affordable. Convenient.",
+        "title": "Drive Your Dreams, On Demand"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the freedom of choice with professional car rentals tailored to fit your journey. Reliable. Affordable. Convenient.",
+        "title": "Drive Your Dreams, On Demand"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience the freedom of choice with professional car rentals tailored to fit your journey. Reliable. Affordable. Convenient.",
+        "title": "Drive Your Dreams, On Demand"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience the freedom of choice with professional car rentals tailored to fit your journey. Reliable. Affordable. Convenient.",
+        "title": "Drive Your Dreams, On Demand"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the freedom of choice with professional car rentals tailored to fit your journey. Reliable. Affordable. Convenient.",
+        "title": "Drive Your Dreams, On Demand"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Drive Your Dreams, On Demand",
+  "subtitle": "Experience the freedom of choice with professional car rentals tailored to fit your journey. Reliable. Affordable. Convenient."
+}
